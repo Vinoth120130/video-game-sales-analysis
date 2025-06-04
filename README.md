@@ -7,9 +7,6 @@ This project analyzes video game sales data across different genres, platforms, 
 - Role-Playing is more popular in Japan.
 - Sales peaked between 2005–2010, mainly led by Sony platforms.
 
-## Dataset
-[Kaggle: Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
-
 ## Tools
 - Python
 - Pandas,Numpy, Seaborn, Plotly
